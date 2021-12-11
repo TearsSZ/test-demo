@@ -1,0 +1,2 @@
+vim a.text  #创建新文件  yy是复制  p是粘贴vim a.text  #创建新文件  yy是复制  p是粘贴
+p 
